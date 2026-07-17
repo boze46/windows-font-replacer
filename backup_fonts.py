@@ -10,8 +10,8 @@ from pathlib import Path
 
 DEFAULT_WINDOWS_FONTS = Path(r"C:\Windows\Fonts")
 GROUPS = {
-    "zh": "replace-font-zh",
-    "en": "replace-font-en",
+    "zh": "zh_font",
+    "en": "en_font",
 }
 
 
